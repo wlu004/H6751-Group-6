@@ -3,7 +3,7 @@ H6751-Group Assignment-Group 6-Media Bias Detection
 
 Dear Professors,
 
-Due to limitation of uploading file size here, please click below URL link for project source code with relevant dataset.
+Due to limitation of uploading file size (25Mb) here, please click below URL link for project source code with relevant dataset.
 https://drive.google.com/drive/folders/1Z7F4QxEltTitFFene2zxEcy-l64IBpcd?usp=sharing
 
 Best Regards
