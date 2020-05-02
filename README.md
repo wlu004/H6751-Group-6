@@ -9,7 +9,7 @@ Due to limitation of uploading file size (25Mb) here, please click below URL lin
 3. article2.csv  (dataset 2)
 4. report06.pdf  (group report file)
 5. presentation06.pdf (group presentation file)
-6. video06.mp4 (group presentation recording file)
+6. video06.mp4 (group presentation video recording file)
 
 https://drive.google.com/drive/folders/1Z7F4QxEltTitFFene2zxEcy-l64IBpcd?usp=sharing
 
